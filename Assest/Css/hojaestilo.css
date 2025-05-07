@@ -1,0 +1,20 @@
+h1{
+    color:rgb(226, 120, 14);
+    text-align: center;
+}
+
+#imginv{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-color: bisque;
+}
+
+.colorAzul{
+    color:rgb(101, 101, 226);
+}
+
+address>h2{
+    text-align: center;
+}
